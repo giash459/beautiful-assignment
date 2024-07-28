@@ -175,3 +175,7 @@
     width: 100px;
     border-radius: 10px;
 }
+.footer-container{
+    background-color: azure;
+    padding: 20px 100px;
+}
