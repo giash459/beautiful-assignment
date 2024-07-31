@@ -230,37 +230,51 @@
 .bg-img {
     background-image: url("../assets/handshake.jpg");
     text-align: center;
-    /* background-repeat: no-repeat; */
     margin: 30px 100px;
     border-radius: 10px;
     height: 400px;
     max-width: 1800px;
+    border-radius: 16px;
 }
 
 .need-container {
-    color: #FFFFFF;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 700;
     padding-top: 60px;
 }
 
 .need-description {
     padding: 40px 0px;
-    color: #FFFFFF;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .input-place {
     height: 40px;
     width: 400px;
     border-radius: 10px;
+    color: rgba(13, 19, 33, 0.4);
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 20px;
+
 }
 
-.submit-container {
+.submit-btn {
     height: 44px;
     width: 100px;
     border-radius: 10px;
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
 }
 
 .footer-container {
-    background-color: azure;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    margin-top: 60px;
     padding: 20px 100px;
 }
 
