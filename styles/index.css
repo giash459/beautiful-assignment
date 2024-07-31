@@ -167,7 +167,14 @@
     height: 48px;
 }
 
-
+.inspiration-title {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+}
+.video-content{
+    border-radius: 16px;
+}
 .current-container {
     margin: 40px 100px;
     gap: 20px;
